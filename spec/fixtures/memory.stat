@@ -1,0 +1,26 @@
+cache 434176
+rss 475136
+mapped_file 0
+pgpgin 601
+pgpgout 379
+pgfault 2289
+pgmajfault 10
+inactive_anon 0
+active_anon 491520
+inactive_file 413696
+active_file 4096
+unevictable 0
+hierarchical_memory_limit 9223372036854775807
+total_cache 434176
+total_rss 475136
+total_mapped_file 0
+total_pgpgin 601
+total_pgpgout 379
+total_pgfault 2289
+total_pgmajfault 10
+total_inactive_anon 0
+total_active_anon 491520
+total_inactive_file 413696
+total_active_file 4096
+total_unevictable 0
+
