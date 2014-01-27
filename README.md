@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Docktord
 
 ## Helps you monitor Docker containers
